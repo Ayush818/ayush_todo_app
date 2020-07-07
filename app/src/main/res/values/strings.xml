@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="welcome_text"> Welcome</string>
+
+    <string name="text_login">Login</string>
+    <string name="text_username">Username</string>
+    <string name="text_password">Password</string>
+    <string name="text_username_validation">Username required!!!</string>
+    <string name="text_password_validation">Password required!!!</string>
+    <string name="text_login_invalid">Username or Password invalid!!!</string>
+    <string name="text_signin">SignIn</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="text_alert">Are you sure?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="Form_title">Title</string>
+    <string name="Form_Description">Description</string>
+    <string name="Form_date">Date</string>
+    <string name="Form_priority">Priority</string>
+    <string name="From_high">High</string>
+    <string name="Form_medium">Medium</string>
+    <string name="Form_low">Low</string>
+    <string name="Form_is_completed">Is complete</string>
+    <string name="Form_save">Save</string>
+    <string name="cancel_alert">Do you want to go back?</string>
+    <string name="data_saved">Todo Added!!!</string>
+    <string name="data_deleteId">Todo deleted!!!</string>
+    <string name="data_deleteAll">items deleted!!!</string>
+    <string name="data_update">Update</string>
+    <string name="data_updated">Note updated!!!</string>
+    <string name="delete_all">Do you want to delete all Todos?</string>
+    <string name="logout_app">Are you sure you want to logout?</string>
+    <string name="btn_logout">Logout</string>
+</resources>

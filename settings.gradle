@@ -1,0 +1,2 @@
+rootProject.name='ayush_todo'
+include ':app'
