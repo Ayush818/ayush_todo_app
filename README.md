@@ -5,7 +5,7 @@ DMA Second Assessment
 <p>This is a TODO-APP, a assessment of developing mobile application final assignment. In this app all the requirement given by university has been fulfilled as per the guide line of the univesity. Model-View_ViewModel(MVVM) the main role of mvvm in the software development process are View informs the inform the viewmodel 
 about the users action. view model handles the connection between view and model it is also equivalent to the controller or mediator of between view and model
 Data Model is the library of datasource. The view model works with data model for to get and set purpose. </p>
-<img src="/images/one.JPG" width = "200" height="400">
+<img src="ayush_todo_app/images/one.JPG" width = "200" height="400">
 <p> Above images is the login image where use need to login first </p>
 
 <img src="images/two.JPG" width = "200" height="400">
